@@ -11,3 +11,19 @@ jumbotron {
 .jumbotron h1 {
   color: white;
 }
+.image1 {
+  width: 500px;
+  height: 350px;
+}
+.image2 {
+  width: 500px;
+  height: 300px;
+}
+.image3 {
+  width: 400px;
+  height: 500px;
+}
+.image4 {
+  width: 500px;
+  height: 500px;
+}
