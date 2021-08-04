@@ -4,3 +4,10 @@ img {
   margin-right: auto;
   width: 50%;
 }
+jumbotron {
+  background-color: plum;
+}
+
+.jumbotron h1 {
+  color: white;
+}
