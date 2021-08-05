@@ -1,29 +1,69 @@
-img {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-  width: 50%;
-}
-jumbotron {
-  background-color: plum;
+.jumbotron {
+  background-color: rgba(221, 160, 221, 0.37);
 }
 
 .jumbotron h1 {
-  color: white;
+  color: black;
+  font-size: 60px;
+  font-weight: 400;
+  background-color: rgba(221, 160, 221, 0.37);
 }
 .image1 {
   width: 500px;
   height: 350px;
+  border-radius: 8px;
 }
 .image2 {
   width: 500px;
   height: 300px;
+  border-radius: 8px;
 }
 .image3 {
-  width: 300px;
+  width: 400px;
   height: 300px;
+  border-radius: 8px;
 }
 .image4 {
-  width: 500px;
-  height: 500px;
+  width: 400px;
+  height: 300px;
+  border-radius: 8px;
+  position: relative;
+}
+.image5 {
+  width: 400px;
+  height: 300px;
+  border-radius: 8px;
+}
+
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: 'Indie Flower', cursive;
+  font-weight: 400;
+  font-size: 40px;
+
+  margin-bottom: 55px;
+}
+
+p {
+  font-family: 'Indie Flower', cursive;
+  font-size: 26px;
+}
+a {
+  font-family: 'Indie Flower', cursive;
+}
+li {
+  font-family: 'Indie Flower', cursive;
+  font-size: 26px;
+}
+.container {
+  background-color: rgba(221, 160, 221, 0.37);
+}
+h1 {
+  font-weight: 400;
+  font-size: 60px;
+  font-family: 'Indie Flower', cursive;
+  margin-bottom: 55px;
 }
