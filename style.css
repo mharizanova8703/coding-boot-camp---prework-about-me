@@ -3,7 +3,7 @@
 }
 
 .jumbotron h1 {
-  color: black;
+  color: cornflowerblue;
   font-size: 60px;
   font-weight: 400;
   background-color: rgba(221, 160, 221, 0.37);
@@ -37,7 +37,7 @@
 .image6 {
   border-radius: 8px;
   width: 300px;
-  height: 200px;
+  height: 300px;
 }
 .image7 {
   border-radius: 8px;
@@ -56,6 +56,7 @@ h6 {
   font-size: 80px;
   text-decoration: underline;
   margin-bottom: 55px;
+  color: cornflowerblue;
 }
 
 p {
@@ -70,10 +71,23 @@ li {
   font-size: 26px;
 }
 .container {
+  background-color: aliceblue;
 }
 h1 {
   font-weight: 400;
   font-size: 60px;
   font-family: 'Indie Flower', cursive;
   margin-bottom: 55px;
+  color: cornflowerblue;
+}
+.p1 {
+  font-family: 'Indie Flower', cursive;
+
+  text-decoration: underline;
+
+  color: cornflowerblue;
+}
+
+body {
+  font-family: 'Indie Flower', cursive;
 }
