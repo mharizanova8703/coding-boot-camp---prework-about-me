@@ -1,4 +1,10 @@
 # coding-boot-camp---prework-about-me
+This app includive :
+* HTML
+* CSS
+* Bootstrap
+
+
 https://mharizanova8703.github.io/coding-boot-camp---prework-about-me/
 
 #Screenshot
